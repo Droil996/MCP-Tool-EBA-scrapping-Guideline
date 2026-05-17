@@ -112,14 +112,6 @@ Con `uv`:
 uv sync
 ```
 
-Oppure, se necessario:
-
-```bash
-pip install -e .
-```
-
----
-
 ## Avvio server
 
 ```bash
